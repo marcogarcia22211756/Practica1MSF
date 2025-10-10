@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: leguage m; python
+type: software
+authors:
+  - given-names: MARCO ANTONIO
+    family-names: Garcia MONTILLA
+    email: l22211756@tectijuana.edu.mx
+    affiliation: TECNM-ITT
+repository-code: 'https://github.com/marcogarcia22211756/Practica1MSF'
+keywords:
+  - Circuito RLC
+  - Controlador I
+  - Modelo matemático
+  - Simulación numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-09'
